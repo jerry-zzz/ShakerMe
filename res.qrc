@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/ico_csy.png</file>
+        <file>res/lamp_alarm.png</file>
+        <file>res/lamp_idle.png</file>
+        <file>res/lamp_run.png</file>
+        <file>res/lamp_white.png</file>
+        <file>res/ico_btn_bg.png</file>
+        <file>res/ico_btn_bg2.png</file>
+        <file>res/ico_pause.png</file>
+        <file>res/ico_start.png</file>
+        <file>res/ico_stop.png</file>
+        <file>res/ico_close.png</file>
+        <file>res/ico_minimize.png</file>
+        <file>res/ico_save.png</file>
+        <file>res/ico_account.png</file>
+        <file>res/lamp_signal_off.png</file>
+        <file>res/lamp_signal_on.png</file>
+        <file>res/lamp_status_yellow.png</file>
+        <file>res/lamp_status_green.png</file>
+        <file>res/lamp_status_red.png</file>
+        <file>res/ui_platform.png</file>
+        <file>res/ui_EquipmentPicture.png</file>
+        <file>res/ui_login.png</file>
+        <file>res/ui_register.png</file>
+        <file>res/ico_reset.png</file>
+        <file>res/ui_down_arrow.png</file>
+        <file>res/check_checked.png</file>
+        <file>res/check_unchecked.png</file>
+        <file>res/ui_record.png</file>
+        <file>res/ui.png</file>
+        <file>res/ui2.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
